@@ -1,6 +1,6 @@
 # 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
 
-This project performs **Exploratory Data Analysis (EDA)** on the famous Titanic dataset from Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
+This project performs **Exploratory Data Analysis (EDA)** on the famous Titanic dataset from Kaggle.
 
 The aim of this project is to analyze passenger survival rates based on demographic and socio-economic factors such as gender, age, class, fare, and family size.
 
