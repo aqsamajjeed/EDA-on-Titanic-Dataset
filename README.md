@@ -32,7 +32,7 @@ The aim of this project is to analyze passenger survival rates based on demograp
 
 ---
 
-## 📊 Analysis & Visualizations
+##  Analysis & Visualizations
 1. **Survival by Gender**
    - Females: ~74% survived
    - Males: ~19% survived  
@@ -64,7 +64,7 @@ The aim of this project is to analyze passenger survival rates based on demograp
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 - **Gender mattered most**: Females had much higher survival chances.
 - **Class determined fate**: Wealthier (1st-class) passengers survived more.
 - **Children were prioritized**, while elderly survival was poor.
@@ -73,13 +73,13 @@ The aim of this project is to analyze passenger survival rates based on demograp
 
 ---
 
-## 🏁 Executive Summary
+##  Executive Summary
 This analysis highlights the **social and economic inequalities** in Titanic survival rates.  
 Survival was shaped by **gender, class, and age**, with women, children, and wealthy passengers enjoying the highest chances of survival, while 3rd-class men had the worst odds.
 
 ---
 
-## 📌 How to Run
+##  How to Run
 1. Clone this repository  
    ```bash
    git clone https://github.com/yourusername/titanic-eda.git
