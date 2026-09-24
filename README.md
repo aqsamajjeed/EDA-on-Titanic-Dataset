@@ -1,4 +1,4 @@
-# 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+#  Titanic Dataset - Exploratory Data Analysis (EDA)
 
 This project performs **Exploratory Data Analysis (EDA)** on the famous Titanic dataset from Kaggle.
 
@@ -6,14 +6,14 @@ The aim of this project is to analyze passenger survival rates based on demograp
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - `Titanic Dataset.csv` → Dataset used in this analysis.
 - `titanic_eda.ipynb` → Jupyter Notebook with full code and analysis.
 - `README.md` → Project documentation.
 
 ---
 
-## 🔧 Tools & Libraries
+##  Tools & Libraries
 - Python
 - Pandas
 - NumPy
@@ -22,7 +22,7 @@ The aim of this project is to analyze passenger survival rates based on demograp
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 - Handled missing values:
   - `Age` filled with median
   - `Embarked` filled with mode
